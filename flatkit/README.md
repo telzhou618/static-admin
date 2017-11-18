@@ -1,2 +1,2 @@
-# static-admin
-静态后台模板合集
+# flatkit
+![image](https://github.com/zhougaojun618/static-admin/blob/master/v.png)
